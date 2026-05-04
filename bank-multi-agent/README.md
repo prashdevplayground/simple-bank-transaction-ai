@@ -35,3 +35,15 @@ bank-multi-agent/
 ├── Dockerfile
 ├── docker-compose.yml
 └── README.md
+
+## We’ll build a Bank Transaction Multi-Agent System with:
+
+Root Agent (orchestrator)
+Validation Agent
+Fraud Detection Agent
+Transaction Agent
+Notification Agent
+SQLite DB
+FastAPI backend
+Simple frontend
+Dockerized
